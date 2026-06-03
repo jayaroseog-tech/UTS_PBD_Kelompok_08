@@ -243,4 +243,4 @@ dan pencatatan log pada MySQL untuk membantu proses pengolahan nilai praktikum m
 ![Rekap Per Mata Kuliah](recap_per_mata_kuliah.jpeg)
 
 ## Log Rekap Nilai
-![Log Rekap Nilai](log_rekap_nilai.png)
+![Log Rekap Nilai](log_rekap_nilai.jpeg)
