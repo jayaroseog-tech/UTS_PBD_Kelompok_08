@@ -1,6 +1,6 @@
 # README
 
-## Judul Proyek
+## JUDUL PROYEK: SISTEM REKAP NILAI PRAKTIKUM MAHASISWA
 
 *Sistem Pengolahan Nilai Praktikum Mahasiswa Menggunakan Stored Procedure dan Cursor pada MySQL*
 
