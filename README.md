@@ -187,36 +187,11 @@ sql
 CALL rekap_nilai_per_mk('MK001');
 
 ## Pembagian Tugas Anggota
-
-### Elghiariel Sima Tonga
-
-* Membuat database
-* Membuat tabel
-* Membuat relasi antar tabel
-* Membuat Stored Procedure
-* Membuat Cursor
-* Membuat log rekap nilai
-
-### Mifta Auliya
-
-* Membuat perhitungan nilai akhir
-* Menentukan rumus nilai akhir
-* Membuat dokumentasi sistem
-* Menyusun README proyek
-
-### Jaya Rose Bomba O.G
-
-* Menginput data mahasiswa
-* Menginput data nilai praktikum
-* Melakukan pengujian data
-* Validasi hasil perhitungan nilai
-
-### Anandari Dewitri
-
-* Menentukan grade dan bobot nilai
-* Menentukan status kelulusan
-* Membantu pengujian program
-* Menyusun laporan hasil proyek
+Elghiariel Sima Tonga : Membuat database, tabel, relasi, dan data awal
+Mifta Auliya : Membuat perhitungan nilai akhir menggunakan variabel
+Jaya Rose Bomba O.G : Membuat percabangan grade, bobot, status kelulusan, dan perulangan
+Anandari Dewitri: Membuat implicit cursor, explicit cursor, cursor dengan parameter, log
+rekap, dan laporan
 
 ## Kesimpulan
 
