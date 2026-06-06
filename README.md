@@ -187,9 +187,12 @@ sql
 CALL rekap_nilai_per_mk('MK001');
 
 ## Pembagian Tugas Anggota
-Elghiariel Sima Tonga : Membuat database, tabel, relasi, dan data awal
+Elghiariel Sima Tonga : Membuat database, tabel, relasi, dan data awal 
+
 Mifta Auliya : Membuat perhitungan nilai akhir menggunakan variabel
+
 Jaya Rose Bomba O.G : Membuat percabangan grade, bobot, status kelulusan, dan perulangan
+
 Anandari Dewitri: Membuat implicit cursor, explicit cursor, cursor dengan parameter, log
 rekap, dan laporan
 
