@@ -1,10 +1,10 @@
 INSERT INTO dosen VALUES
-('DS001','Budi Santoso'),
-('DS002','Andi Wijaya');
+('DS001','Abdul Malik, S.Kom., M.Cs.'),
+('DS002','Hasriani, S.Kom., M.Kom');
 [3/6 13.10] sima fikom: INSERT INTO mata_kuliah VALUES
 ('MK001','Basis Data',3,'DS001'),
 ('MK002','Pemrograman Web',3,'DS002'),
-('MK003','Struktur Data',3,'DS001');
+('MK003','Kecerdasan Buatan',3,'DS001');
 
  INSERT INTO grade VALUES
 ('A',4.00),
